@@ -4,10 +4,10 @@ const title = document.getElementById("title");
 const description = document.getElementById("description");
 
 const contentData = [
-  { title: "Knowledge Base", text: "Access structured information and documentation." },
-  { title: "Learning Path", text: "Follow guided steps to build expertise." },
-  { title: "Community", text: "Connect with others and share ideas." },
-  { title: "Resources", text: "Explore tools, references, and assets." }
+  { title: "About me", text: "Access structured information and documentation." },
+  { title: "Education", text: "Follow guided steps to build expertise." },
+  { title: "Current Projects", text: "Currently working on A modular full-stack personal dashboard that centralizes fitness tracking, personal finance management, job application tracking, and real time crypto/stock market data using a shared authentication system and database." },
+  { title: "Contact me", text: "6188304255 joshponce1997@gmail.com" }
 ];
 
 let activeIndex = null;
