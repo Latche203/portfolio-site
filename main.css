@@ -30,8 +30,8 @@ body {
 /* HEX BUTTON (OUTER SHAPE) */
 .hex-button {
   position: relative; /* needed for firework particles */
-  width: 120px;
-  height: 104px;
+  width: 240px;
+  height: 208px;
   background: #9e9e9e; /* grey by default */
   border: none;
   cursor: pointer;
@@ -58,8 +58,8 @@ body {
 
 /* ICON SHAPE (INNER SHAPE) */
 .icon-shape {
-  width: 52px;
-  height: 52px;
+  width: 104px;
+  height: 104px;
   background: #ffffff; /* white by default */
   display: flex;
   align-items: center;
