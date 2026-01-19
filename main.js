@@ -6,14 +6,7 @@ const description = document.getElementById("description");
 const contentData = [
   { title: "About me", text: "Access structured information and documentation." },
   { title: "Education", text: "Follow guided steps to build expertise." },
-  { title: "Current Projects", 
-   text: 
-    "Developed a React-based dashboard integrating real-time stock & crypto data, personal banking, and health metrics into a single interface.
-     Implemented modular, reusable components and state management to handle complex user interactions across multiple sections.
-     Designed real-time and historical charts using Recharts with dynamic line colors, gradient fills, and multiple assets per chart.
-     Built responsive, data-heavy dashboards with emphasis on performance, UX, and accessibility.
-     Enabled interactive sidebar navigation, filtering, and toggling between financial and health views for seamless user experience.
-     Prepared architecture for API integration with stock exchanges, crypto APIs, and banking services." },
+  { title: "Portfolio", text: "Developed a React-based dashboard integrating real-time stock & crypto data, personal banking, and health metrics into a single interface."},
   { title: "Contact me", text: "6188304255 joshponce1997@gmail.com" }
 ];
 
